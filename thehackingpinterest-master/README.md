@@ -1,6 +1,6 @@
 # thehackingpinterest-master
 
-#  Groupe de Jonathan, Maxime et Marylis
+Groupe de Jonathan, Maxime et Marylis
 
 # Pré-recquis:
 
