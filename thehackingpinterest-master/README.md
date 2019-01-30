@@ -1,8 +1,8 @@
 # thehackingpinterest-master
 
-Groupe de Jonathan, Maxime et Marylis
+_Groupe de Jonathan, Maxime et Marylis_
 
-pré-recquis:
+#titre Pré-recquis:
 
 bundle install
 > pour avoir les gems:
@@ -10,13 +10,13 @@ gem 'table_print'
 gem 'faker'
 
 
-Consignes:
+#titre Consignes:
 
 The Hacking Pinterest
 Tu veux faire de la concurrence à Pinterest, donc tu voudrais créer un site où les utilisateurs peuvent créer des "pins". Chaque pin contient l'URL d'une image sur le net. Les utilisateurs peuvent commenter les pins, mais ne peuvent pas commenter les commentaires.
 
 
-Présentation du projet:
+#titre Présentation du projet:
 
 3 tabs : users, pins et comments
 
@@ -27,7 +27,7 @@ modèle commentaire: 2 foreign key (id_user & id_pin)
 seed.rb utilisé pour générer des entrées
 
 
-Pour voir la base:
+#titre Pour voir la base:
 1)télécharger le zip
 2)dézipper
 3)chemin du dossier dans le terminal
