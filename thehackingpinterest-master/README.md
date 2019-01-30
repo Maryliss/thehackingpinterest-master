@@ -14,9 +14,11 @@ Groupe de Jonathan, Maxime et Marylis
 > pour avoir les gems: gem 'table_print' et gem 'faker'
 5) $ rails db:migrate 
 > pour mettre les migrations up.
-6) $ rails c
+6) $ rails db:seed 
+> pour peupler chaque base avec des exemples sinon tout sera vide! ;(
+7) $ rails c
 > pour lancer la console de rails
-7) 'tp user.all' / ) 'tp pin.all' / ) 'tp comment.all' 
+8) 'tp user.all' / ) 'tp pin.all' / ) 'tp comment.all' 
 > pour voir les différents tabs
 
 # Consignes:
