@@ -5,8 +5,11 @@ Groupe de Jonathan, Maxime et Marylis
 # Pré-recquis:
 
 1)télécharger le zip
+> obvious
 2)dézipper
+> :p
 3)chemin du dossier dans le terminal
+> (sans dec?)
 4) $ bundle install
 > pour avoir les gems: gem 'table_print' et gem 'faker'
 5) $ rails db:migrate 
